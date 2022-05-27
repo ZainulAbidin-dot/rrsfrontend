@@ -14,6 +14,7 @@
     "history": "^5.1.0",
     "jquery": "^3.6.0",
     "js-cookie": "^3.0.1",
+    "jspdf": "^2.5.1",
     "material-ui": "^1.0.0-beta.47",
     "node-sass": "^6.0.1",
     "parse-json": "^6.0.2",
