@@ -12,6 +12,7 @@
     "google-map-react": "^2.1.10",
     "google-maps-react": "^2.0.6",
     "history": "^5.1.0",
+    "jquery": "^3.6.0",
     "js-cookie": "^3.0.1",
     "material-ui": "^1.0.0-beta.47",
     "node-sass": "^6.0.1",
